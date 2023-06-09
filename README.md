@@ -1,5 +1,5 @@
 
-`# Bluesky Bot
+# Bluesky Bot
 
 Bluesky Bot is a simple bot built using TypeScript that posts to the Bluesky social network using the Bluesky API. It can be scheduled to run at specified times using GitHub Actions.
 
